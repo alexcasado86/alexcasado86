@@ -24,4 +24,4 @@
 
 
 
-### Apaixonado pelo mundo da programação e seu infinito de possibilidades.
+## Apaixonado pelo mundo da programação e suas infinitas possibilidades.
